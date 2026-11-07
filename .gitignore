@@ -1,0 +1,12 @@
+# Python environment & cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local environment variables containing API keys
+.env
+
+# Testing & linting artifacts
+.pytest_cache/
+.ruff_cache/
